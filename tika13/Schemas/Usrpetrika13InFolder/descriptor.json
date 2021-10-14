@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d329cd1d-4c13-40a9-b343-46461bb03334",
+    "Name": "Usrpetrika13InFolder",
+    "ModifiedOnUtc": "\/Date(1634216544000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "petrika13 in Folder"
+  }
+}

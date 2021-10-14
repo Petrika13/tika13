@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "4d1698ac-2f23-4017-9bfb-d59bced2a935",
+    "Name": "Usrpetrika13",
+    "ModifiedOnUtc": "\/Date(1634216531000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "petrika13"
+  }
+}

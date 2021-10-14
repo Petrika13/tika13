@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "cb5f5bbd-1999-42c8-8922-2a873f1ca9cb",
+    "Name": "Usrpetrika13InTag",
+    "ModifiedOnUtc": "\/Date(1634216552000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "petrika13 section record tag"
+  }
+}

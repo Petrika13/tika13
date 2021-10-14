@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce2ae1e4-afa8-4a38-a437-2e8e12bac315",
+    "Name": "Usrpetrika13File",
+    "ModifiedOnUtc": "\/Date(1634216536000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "petrika13 attachment"
+  }
+}
